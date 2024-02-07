@@ -22,14 +22,15 @@ Term: Spring 2024
   The project concludes that happiness is a complex, multifaceted concept influenced by individual life circumstances, with gender and marital status playing significant roles in shaping the sources of joy. This understanding of happiness shows the need for recognizing and catering to diverse happiness drivers across different life stages and societal segments.
  
 
+
 This folder is orgarnized as follows.
 
 ```
 proj/
-├── lib/
 ├── data/
 ├── doc/
 ├── figs/
+├── lib/
 └── output/
 ```
 
