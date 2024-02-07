@@ -130,8 +130,13 @@ hm_data <- hm_data %>%
   mutate(id = row_number()) %>%
   inner_join(completed)
 
+```
+
+
+```{r}
 datatable(hm_data)
 ```
+
 
 ### Exporting the processed text data into a CSV file
 
